@@ -1,7 +1,8 @@
 import React from 'react';
 
-export default () => (
-    <div class='nav-header'>
+const Header = () => (
+    <div className='nav-header'>
       <p>HACKER NEWS FEED</p>    
     </div>
-)
+);
+export default Header;

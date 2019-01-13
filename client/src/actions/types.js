@@ -1,1 +1,2 @@
-export const FETCH_FEEDS = 'FETCH_FEEDS';
+export const FETCH_STORIES = 'FETCH_STORIES';
+export const FETCH_COMMENTS = 'FETCH_COMMENTS';

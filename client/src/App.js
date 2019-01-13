@@ -9,7 +9,7 @@ import FeedContainer from './components/feeds/FeedContainer';
 class App extends Component {
   render() {
     return (
-      <div>
+      <div data-test='component-app'>
         <BrowserRouter>
           <div>
             <Header />
